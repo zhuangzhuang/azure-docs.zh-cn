@@ -27,7 +27,7 @@ Azure 认知服务是 API、SDK 和服务，可帮助开发人员生成智能应
 |[计算机视觉](https://docs.microsoft.com/azure/cognitive-services/computer-vision/ "计算机视觉")|使用计算机视觉服务，你可以访问用于处理图像并返回信息的高级算法。|
 |[自定义视觉服务](https://docs.microsoft.com/azure/cognitive-services/Custom-Vision-Service/home "自定义视觉服务")（预览版）|通过自定义视觉服务可以生成自定义图像分类器。|
 |[内容审查器](https://docs.microsoft.com/azure/cognitive-services/content-moderator/overview "内容审查器")|内容审查器监视可能的冒犯性、不可取和危险内容。|
-|[人脸 API](https://docs.microsoft.com/azure/cognitive-services/face/ "人脸 API")|使用人脸 API 可访问高级人脸算法，支持人脸属性检测和识别。|
+|[人脸 API](https://docs.microsoft.com/azure/cognitive-services/face/ "人脸 API")|使用人脸 API 服务可访问高级人脸算法，支持人脸属性检测和识别。|
 |[情感 API](https://docs.microsoft.com/azure/cognitive-services/emotion/home "情感 API")（预览版）|情感 API 采用图像作为输入，并返回图像中的每张人脸与一组情感对应的置信度。|
 | [视频索引器](https://docs.microsoft.com/azure/cognitive-services/video-indexer/video-indexer-overview "视频索引器")|使用视频索引器从视频中提取见解。|
 
