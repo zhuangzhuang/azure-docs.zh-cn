@@ -102,7 +102,7 @@ ms.locfileid: "66357171"
                 // Start the async process to read the text
                 BatchReadFileHeaders textHeaders =
                     await computerVision.BatchReadFileAsync(
-                        imageUrl);
+                        imageUrl, TextRecognitionMode.Handwritten);
 
                 await GetTextAsync(computerVision, textHeaders.OperationLocation);
             }
@@ -123,7 +123,7 @@ ms.locfileid: "66357171"
                     // Start the async process to recognize the text
                     BatchReadFileInStreamHeaders textHeaders =
                         await computerVision.BatchReadFileInStreamAsync(
-                            imageStream);
+                            imageStream, TextRecognitionMode.Printed);
 
                     await GetTextAsync(computerVision, textHeaders.OperationLocation);
                 }
